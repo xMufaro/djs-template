@@ -1,0 +1,23 @@
+{
+  "name": "djs-template",
+  "version": "1.0.0",
+  "description": "Discord.js v14 bot template",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xMufaro/djs-template.git"
+  },
+  "keywords": [
+    "Discord",
+    "Discord.js"
+  ],
+  "author": "Mufaro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xMufaro/djs-template/issues"
+  },
+  "homepage": "https://github.com/xMufaro/djs-template#readme"
+}
