@@ -1,10 +1,10 @@
 ## Installation
 
 ```
-git clone https://github.com/xMufaro/cabbybot
-cd cabbybot
+git clone https://github.com/xMufaro/djs-template
+cd djs-template
 npm install
-npm run start:dev
+npm run dev
 ```
 
 You can use following commands in terminal:
