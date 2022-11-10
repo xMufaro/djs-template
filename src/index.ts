@@ -1,4 +1,5 @@
-require("dotenv").config();
+import dotenv from "dotenv";
+dotenv.config();
 import { ExtendedClient } from "./structures/Client";
 import { log } from "./utils/coloredConsole";
 
@@ -12,4 +13,8 @@ async function main() {
 }
 
 main();
+
+client.on('error', (error) => {
+    console.log(error);
+})
 

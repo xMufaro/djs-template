@@ -1,14 +1,17 @@
 ## Installation
 
-After downloading the project, you should install packages using `npm install`
-
-To run the project, make sure you followed the **`Environment Variables`** Section.
+```
+git clone https://github.com/xMufaro/cabbybot
+cd cabbybot
+npm install
+npm run start:dev
+```
 
 You can use following commands in terminal:
 
 `npm run start` **to run the project.**
 
-`npm run build` **to compile the typescript into**
+`npm run build` **to compile the typescript into javascript**
 
 
 
@@ -23,6 +26,5 @@ To run this project, you will need to add the following environment variables to
 
 ## Acknowledgements
 
- - [Readme created using readme.so](https://readme.so/editor)
  - [Bot package](https://discord.js.org/#/)
 
